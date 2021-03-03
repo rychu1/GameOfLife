@@ -45,7 +45,6 @@ for (int j = 0; j < NUM_ROWS;  j++) {
 }
 
   copyFromBufferToButtons();
-  System.out.println(countNeighbors(4, 4));
 }
 
 public void keyPressed() {
